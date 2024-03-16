@@ -1,6 +1,8 @@
+
+INTRODUCTION:
 The project aimed to streamline personal financial management and provide users with intuitive tools for budgeting, expense tracking, and financial goal setting.
 
-Key components and features of the finance tracker project include:
+fEATURES:
 
 (1) User-friendly Interface: Designed an intuitive and aesthetically pleasing user interface to enhance user experience and accessibility.
 
@@ -11,3 +13,6 @@ Key components and features of the finance tracker project include:
 (4) Income Management: Developed functionality for users to input and track their sources of income, facilitating a comprehensive view of their financial inflows and outflows.
 
 (5) Financial Goal Setting: Incorporated a goal-setting feature enabling users to define and track financial goals such as saving for a vacation, purchasing a car, or paying off debt. Implemented progress tracking to monitor goal achievement over time.
+
+DEMO:
+
