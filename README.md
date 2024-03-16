@@ -3,7 +3,15 @@ INTRODUCTION:
 
 The project aimed to streamline personal financial management and provide users with intuitive tools for budgeting, expense tracking, and financial goal setting.
 
-fEATURES:
+
+WEB SKILLS:
+
+HTMI
+CSS
+JAVASCRIPTS
+
+
+FEATURES:
 
 (1) User-friendly Interface: Designed an intuitive and aesthetically pleasing user interface to enhance user experience and accessibility.
 
