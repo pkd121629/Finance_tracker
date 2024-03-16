@@ -1,5 +1,6 @@
 
 INTRODUCTION:
+
 The project aimed to streamline personal financial management and provide users with intuitive tools for budgeting, expense tracking, and financial goal setting.
 
 fEATURES:
@@ -14,5 +15,8 @@ fEATURES:
 
 (5) Financial Goal Setting: Incorporated a goal-setting feature enabling users to define and track financial goals such as saving for a vacation, purchasing a car, or paying off debt. Implemented progress tracking to monitor goal achievement over time.
 
-DEMO:
+DEMo : https://pkd121629.github.io/Finance_tracker/
+
+SNAPS: ![image](https://github.com/pkd121629/Finance_tracker/assets/149374366/dd3e0c08-eac1-4ed1-8fbd-45016ed4e346)
+
 
