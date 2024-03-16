@@ -4,9 +4,7 @@ INTRODUCTION:
 The project aimed to streamline personal financial management and provide users with intuitive tools for budgeting, expense tracking, and financial goal setting.
 
 
-WEB SKILLS:
-
-HTML, CSS, JAVASCRIPTS
+WEB SKILLS : HTML, CSS, JAVASCRIPTS
 
 
 FEATURES:
