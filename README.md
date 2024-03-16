@@ -6,9 +6,7 @@ The project aimed to streamline personal financial management and provide users 
 
 WEB SKILLS:
 
-HTMI
-CSS
-JAVASCRIPTS
+HTML, CSS, JAVASCRIPTS
 
 
 FEATURES:
